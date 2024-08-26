@@ -44,7 +44,3 @@ I would like to thank the instructors and peers from the Master ProfessionAI in 
 ### License
 
 This project is developed for educational purposes as part of the Master ProfessionAI and is not intended for commercial use.
-
----
-
-This `README.md` should provide a comprehensive and detailed overview of your project. If you need any further adjustments or clarifications, feel free to ask!
